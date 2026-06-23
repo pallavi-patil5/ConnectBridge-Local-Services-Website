@@ -1,0 +1,14 @@
+# Environment
+.env
+
+# Uploads (user files)
+uploads/*
+!uploads/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
